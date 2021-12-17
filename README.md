@@ -13,6 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I snowboard
 
+
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=A-Waters&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+
+
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
