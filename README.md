@@ -5,11 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-## I'm A Student, Developer
+## Currently a Student and a Developer, always ready to learn
 - 🔭 I’m currently working on a full stack app for identifying, tagging, and tracking invasive plants
 - 🌱 I’m currently learning Machine Learning and Cyber Security
-- 
-- 💬 Ask me about my goals
+- 💬 my goals for 2022 are: Break into the work force  
 - 📫 How to reach me: contact@alexwaters.dev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I snowboard
