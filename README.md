@@ -27,12 +27,10 @@ No Activity tracked this Week
 
 
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=A-Waters&hide=stars&layout=compact" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Waters&layout=compact" />
-</a>
+
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=A-Waters&hide=stars&layout=compact" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Waters&layout=compact" />
+
 
 [website]: https://alexwaters.dev
 [linkedin]: https://www.linkedin.com/in/alexanderwatersli/
