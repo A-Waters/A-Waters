@@ -1,5 +1,4 @@
 name: WakaReadme
-
 on:
   schedule:
     # Runs at 12am EST once a week
@@ -10,7 +9,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: A-Waters/WakaReadme@main
+      - uses: A-Waters/WakaReadme
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
