@@ -17,6 +17,28 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=A-Waters&theme=github-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&border=DD272700)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2051%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-416%20Thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.67% 
+🌆 Daytime    152 commits    ████████████░░░░░░░░░░░░░   50.67% 
+🌃 Evening    113 commits    █████████░░░░░░░░░░░░░░░░   37.67% 
+🌙 Night      18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+```
+
+
+ Last Updated on 18/12/2021
 <!--END_SECTION:waka-->
 
 <p>
