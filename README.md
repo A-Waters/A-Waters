@@ -16,14 +16,8 @@
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=A-Waters&theme=github-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&border=DD272700)](https://git.io/streak-stats) -->
 
-
-
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
-
-
-
 
 <p>
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=A-Waters&hide=stars&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
