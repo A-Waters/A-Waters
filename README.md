@@ -17,15 +17,15 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=A-Waters&theme=github-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&border=DD272700)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-422%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-423%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
-🌆 Daytime    165 commits    █████████████░░░░░░░░░░░░   52.22% 
-🌃 Evening    115 commits    █████████░░░░░░░░░░░░░░░░   36.39% 
-🌙 Night      20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.33%
+🌞 Morning    18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.61% 
+🌆 Daytime    168 commits    █████████████░░░░░░░░░░░░   52.34% 
+🌃 Evening    115 commits    █████████░░░░░░░░░░░░░░░░   35.83% 
+🌙 Night      20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.23%
 
 ```
 
