@@ -17,7 +17,7 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=A-Waters&theme=github-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&border=DD272700)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-435%20Thousand%20lines%20of%20code-blue)
 
