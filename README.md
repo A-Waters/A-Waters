@@ -5,13 +5,10 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](website)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](instagram)
 
-## Currently a Student and a Developer, always ready to learn
-- 🔭 I’m currently working on a full stack app for identifying, tagging, and tracking invasive plants
-- 🌱 I’m currently learning Machine Learning and Cyber Security
-- 💬 my goals for 2022 are: Break into the work force  
-- 📫 How to reach me: contact@alexwaters.dev
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I snowboard
+Look at my Github
+<img height="170em" src="https://cdn3.emoji.gg/emojis/3708_why_god_why.png" />
+   
+
 
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=A-Waters&theme=github-dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&border=DD272700)](https://git.io/streak-stats) -->
